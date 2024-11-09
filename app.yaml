@@ -15,7 +15,7 @@ spec:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
- name: k8s-activity-Estimada #change this
+ name: kubernetes_act #change this
  labels:
  app: nginx
 spec:
